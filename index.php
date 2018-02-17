@@ -1,3 +1,3 @@
 <? php
-echo "Al^Mundo";
+echo "Alô Mundo";
 ?>
